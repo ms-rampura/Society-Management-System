@@ -2,7 +2,6 @@
 
 A **C-based CLI tool** for universities to manage student societies, members, and venue bookings efficiently.  
 
-![Demo GIF](https://via.placeholder.com/600x400?text=CLI+Demo+Here) *(Replace with actual screenshot)*  
 
 ## ✨ Features  
 - **Society Management**: Add/delete societies and members.  
