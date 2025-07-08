@@ -1,7 +1,8 @@
 # Society Management System 🏛️  
 
-A **C-based CLI tool** for universities to manage student societies, members, and venue bookings efficiently.  
+![image](https://github.com/user-attachments/assets/7cf6f550-67a0-4e33-a3d9-b829aa610516)
 
+A **C-based CLI tool** for universities to manage student societies, members, and venue bookings efficiently.  
 
 ## ✨ Features  
 - **Society Management**: Add/delete societies and members.  
