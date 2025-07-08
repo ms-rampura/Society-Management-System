@@ -1,4 +1,4 @@
-# SocietyHub Management System 🏛️  
+# Society Management System 🏛️  
 
 A **C-based CLI tool** for universities to manage student societies, members, and venue bookings efficiently.  
 
