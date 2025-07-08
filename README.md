@@ -18,4 +18,4 @@ A **C-based CLI tool** for universities to manage student societies, members, an
 ## 🚀 How to Run  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/your-username/SocietyHub-Management-System.git  
+   git clone https://github.com/your-username/Society-Management-System.git  
